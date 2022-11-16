@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Fadhlurrahman/Documents/Fadhlurrahman/SMT%207/RPL/TokoBuku/src/com/toko/buku/view/TokoBukuView.java</file>
+            <file>file:/C:/Users/Fadhlurrahman/Documents/Fadhlurrahman/SMT%207/RPL/TokoBuku/src/com/toko/buku/model/TokoBukuTableModel.java</file>
+            <file>file:/C:/Users/Fadhlurrahman/Documents/Fadhlurrahman/SMT%207/RPL/TokoBuku/src/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/Fadhlurrahman/Documents/Fadhlurrahman/SMT%207/RPL/TokoBuku/src/com/toko/buku/config/HibernateUtil.java</file>
+            <file>file:/C:/Users/Fadhlurrahman/Documents/Fadhlurrahman/SMT%207/RPL/TokoBuku/src/com/toko/buku/model/TokoBungaTabelModel.java</file>
+            <file>file:/C:/Users/Fadhlurrahman/Documents/Fadhlurrahman/SMT%207/RPL/TokoBuku/src/com/toko/buku/dao/TokoBukuDao.java</file>
+            <file>file:/C:/Users/Fadhlurrahman/Documents/Fadhlurrahman/SMT%207/RPL/TokoBuku/src/com/toko/buku/dao/TokoBukuImpl.java</file>
+            <file>file:/C:/Users/Fadhlurrahman/Documents/Fadhlurrahman/SMT%207/RPL/TokoBuku/src/com/toko/buku/controller/TokoBukuController.java</file>
+            <file>file:/C:/Users/Fadhlurrahman/Documents/Fadhlurrahman/SMT%207/RPL/TokoBuku/src/com/toko/buku/model/TokoBuku.java</file>
+        </group>
+    </open-files>
+</project-private>

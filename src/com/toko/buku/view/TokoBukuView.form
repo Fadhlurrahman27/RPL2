@@ -185,21 +185,33 @@
       <Properties>
         <Property name="text" type="java.lang.String" value="SAVE"/>
       </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="btn_saveMouseClicked"/>
+      </Events>
     </Component>
     <Component class="javax.swing.JButton" name="btn_update">
       <Properties>
         <Property name="text" type="java.lang.String" value="UPDATE"/>
       </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="btn_updateMouseClicked"/>
+      </Events>
     </Component>
     <Component class="javax.swing.JButton" name="btn_delete">
       <Properties>
         <Property name="text" type="java.lang.String" value="DELETE"/>
       </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="btn_deleteMouseClicked"/>
+      </Events>
     </Component>
     <Component class="javax.swing.JButton" name="btn_clear">
       <Properties>
         <Property name="text" type="java.lang.String" value="CLEAR"/>
       </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="btn_clearMouseClicked"/>
+      </Events>
     </Component>
     <Container class="javax.swing.JScrollPane" name="jScrollPane1">
       <AuxValues>
@@ -219,6 +231,9 @@
               </Table>
             </Property>
           </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="tblBukuMouseClicked"/>
+          </Events>
         </Component>
       </SubComponents>
     </Container>
