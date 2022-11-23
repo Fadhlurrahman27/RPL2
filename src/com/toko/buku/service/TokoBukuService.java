@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.toko.buku.dao;
+package com.toko.buku.service;
 
 import com.toko.buku.model.TokoBuku;
 import java.util.List;
@@ -12,8 +12,8 @@ import java.util.List;
  *
  * @author Fadhlurrahman
  */
-public interface TokoBukuDao {
-    public void save(TokoBuku tokobuku);
+public interface TokoBukuService {
+     public void save(TokoBuku tokobuku);
     public void update(TokoBuku tokobuku);
     public void delete(TokoBuku tokobuku);
     //public TokoBuku get(String kd_buku);
