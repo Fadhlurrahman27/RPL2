@@ -6,11 +6,12 @@
             <file>file:/C:/Users/Fadhlurrahman/Documents/Fadhlurrahman/SMT%207/RPL/TokoBuku/src/com/toko/buku/view/TokoBukuView.java</file>
             <file>file:/C:/Users/Fadhlurrahman/Documents/Fadhlurrahman/SMT%207/RPL/TokoBuku/src/com/toko/buku/model/TokoBukuTableModel.java</file>
             <file>file:/C:/Users/Fadhlurrahman/Documents/Fadhlurrahman/SMT%207/RPL/TokoBuku/src/hibernate.cfg.xml</file>
-            <file>file:/C:/Users/Fadhlurrahman/Documents/Fadhlurrahman/SMT%207/RPL/TokoBuku/src/com/toko/buku/config/HibernateUtil.java</file>
             <file>file:/C:/Users/Fadhlurrahman/Documents/Fadhlurrahman/SMT%207/RPL/TokoBuku/src/com/toko/buku/dao/TokoBukuDao.java</file>
             <file>file:/C:/Users/Fadhlurrahman/Documents/Fadhlurrahman/SMT%207/RPL/TokoBuku/src/com/toko/buku/dao/TokoBukuImpl.java</file>
+            <file>file:/C:/Users/Fadhlurrahman/Documents/Fadhlurrahman/SMT%207/RPL/TokoBuku/src/com/toko/buku/service/TokoBukuServiceImpl.java</file>
             <file>file:/C:/Users/Fadhlurrahman/Documents/Fadhlurrahman/SMT%207/RPL/TokoBuku/src/com/toko/buku/controller/TokoBukuController.java</file>
             <file>file:/C:/Users/Fadhlurrahman/Documents/Fadhlurrahman/SMT%207/RPL/TokoBuku/src/com/toko/buku/model/TokoBuku.java</file>
+            <file>file:/C:/Users/Fadhlurrahman/Documents/Fadhlurrahman/SMT%207/RPL/TokoBuku/src/com/toko/buku/service/TokoBukuService.java</file>
         </group>
     </open-files>
 </project-private>

@@ -10,11 +10,13 @@ import java.util.List;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Repository;
 
 /**
  *
  * @author Fadhlurrahman
  */
+@Repository
 public class TokoBukuImpl implements TokoBukuDao {
     @Autowired
     private SessionFactory sessionFactory;
@@ -25,7 +27,8 @@ public class TokoBukuImpl implements TokoBukuDao {
     
     @Override
     public void save(TokoBuku tokobuku) {
-        Session session =  sessionFactory.openSession();
+        sessionFactory.getCurrentSession().save(tokobuku);
+//        Session session =  sessionFactory.openSession();
 //        try{
 //            session.beginTransaction();
 //            session.save(tokobuku);
@@ -42,7 +45,8 @@ public class TokoBukuImpl implements TokoBukuDao {
 
     @Override
     public void update(TokoBuku tokobuku) {
-        Session session =  sessionFactory.openSession();
+        sessionFactory.getCurrentSession().update(tokobuku);
+//        Session session =  sessionFactory.openSession();
 //        try{
 //            session.beginTransaction();
 //            session.update(tokobuku);
@@ -59,7 +63,8 @@ public class TokoBukuImpl implements TokoBukuDao {
 
     @Override
     public void delete(TokoBuku tokobuku) {
-        Session session =  sessionFactory.openSession();
+        sessionFactory.getCurrentSession().delete(tokobuku);
+//        Session session =  sessionFactory.openSession();
 //        try{
 //            session.beginTransaction();
 //            session.delete(tokobuku);
